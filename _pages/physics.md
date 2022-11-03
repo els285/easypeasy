@@ -8,8 +8,8 @@ defaults:
       layout: double
       author_profile: true
 
-title: Physics12345
-
+title: Physics
+usemathjax: true
 permalink: /physics/
 ---
 
