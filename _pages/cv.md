@@ -4,4 +4,4 @@ permalink: /cv/
 header:
 ---
 
-<a href="uhttps://github.com/els285/cv/blob/main/v1.pdf" target="_blank">PDF.</a>
+<a href="https://raw.githubusercontent.com/els285/cv/main/v1.pdf?token=GHSAT0AAAAAABZ2KCWWBXYFQWD7NCFETCCMY3EFJ7A" target="_blank">PDF.</a>
