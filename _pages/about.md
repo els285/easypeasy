@@ -17,6 +17,9 @@ I am 28 years old, living in Geneva, working at CERN. I'm originally from
 Scotland, having grown up in the town of Hawick in the Scottish Borders, and
 studied at the University of Glasgow where I currently study for a PhD.
 
+<img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/199840994-a7f9f27f-d569-435d-a1f4-7e772c2579b5.jpg" />
+
+
 I am interested in understanding the world, through data, through scientific
 discovery, through simulation. My interests are extremely broad. I have analysed
 the behaviour of flapping wings and designed hypersonic vehicles as part of my
