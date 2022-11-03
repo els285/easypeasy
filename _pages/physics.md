@@ -5,7 +5,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: double
       author_profile: true
 
 permalink: /physics/
@@ -25,5 +25,5 @@ avenues of New Physics (i.e. physics not in the Standard Model.)
 I am interested in properties of the top quark, particularly how it spins when
 combined with its antiparticle, and with scalar and vector bosons. Formally, we
 have studied top quark spin correlations and polarisation using the ATLAS Run-2
-dataset in $$ t \bar{t}$$ and $$ t \bar{t} Z$$, and would like to extent to
+dataset in $$ t \bar{t} $$ and $$ t \bar{t} Z $$, and would like to extent to
 further associated production systems. 
