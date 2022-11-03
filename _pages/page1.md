@@ -7,6 +7,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+permalink: /page1/
 ---
 
 # Page 1
