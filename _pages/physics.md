@@ -11,7 +11,7 @@ defaults:
 permalink: /physics/
 ---
 
-# Physics 
+<!-- # Physics  -->
 
 I work with the ATLAS Collaboration in CERN, Geneva, on several different areas
 of high-energy particle physics.
