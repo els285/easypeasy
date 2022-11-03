@@ -79,6 +79,9 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+
+
+
 # Social Sharing
 twitter:
   username               :
@@ -230,6 +233,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-latex
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -279,14 +283,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+
