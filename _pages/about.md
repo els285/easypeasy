@@ -10,7 +10,7 @@ defaults:
 
 title: About
 usemathjax: true
-permalink: /physics/
+permalink: /about/
 ---
 
 All about me 
