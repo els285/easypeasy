@@ -8,7 +8,7 @@ header:
   image: assets/images/banner.jpg
 ---
 
-<embed src="https://raw.githubusercontent.com/els285/cv/main/v1.pdf?token=GHSAT0AAAAAABZ2KCWWDDIF7GGELNQEMWS2Y3EGD2Q" type="application/pdf" />
+<embed src="https://els285.github.io/ethansimpson/misc_content/v1.pdf" type="application/pdf" />
 
 
 <!-- ---
