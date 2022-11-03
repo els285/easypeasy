@@ -4,8 +4,9 @@ title: "Curriculum Vitae"
 sitemap: false
 permalink: /cv/
 author_profile: TRUE
-header:
-  image: assets/images/banner.jpg
+# header:
+#   image: assets/images/banner.jpg
+classes: wide
 ---
 
 <embed src="https://els285.github.io/ethansimpson/misc_content/v1.pdf" type="application/pdf" />
