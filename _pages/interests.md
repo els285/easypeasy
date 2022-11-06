@@ -33,7 +33,7 @@ for histogram visualisation, built around the `streamlit` package.
 
 ## Aerospace
 
-Harking back to my undergraduate days, I have developed `AeroJulia`, a
+Harking back to my undergraduate days, I have developed [`AeroJulia`](https://github.com/els285/AeroJulia), a
 Julia-lang package which contains many aerodynamic and thermodynamic tools for
 solving problems in compressible fluid mechanics (sometimes called gas dynamics)
-contexts. [Link to GitHub](https://github.com/els285/AeroJulia)
+contexts.
