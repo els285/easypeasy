@@ -21,14 +21,14 @@ In my spare time, I like to develop Python packages, to help develop my advanced
 Python skills and to apply data science diagnostics and visualisation to
 data-problems applicable to my everyday life.
 
-In a finance context, I have developed `starlingpy` and `costsplit`.
+In a finance context, I have developed [`starlingpy`](https://github.com/els285/StarlingPy) and [`costsplit`](https://github.com/els285/CostSplit).
 I use `starlingpy` to track my finances, categorise transactions and visualise
 expenditure in an interactive web-app. `costsplit` is a shameless rip-off
 (though all original code) of those apps designed to simplify repayments between
 members of large groups.
 
-In a HEP context, I use my `heptools` package day-to-day to explore ROOT data
-and visualise histograms. The `hepdash` package is a web-based interactive tools
+In a HEP context, I use my [`heptools`](https://github.com/els285/HEPTools) package day-to-day to explore ROOT data
+and visualise histograms. The [`hepdash`](https://github.com/els285/HEPDash) package is a web-based interactive tools
 for histogram visualisation, built around the `streamlit` package. 
 
 ## Aerospace
