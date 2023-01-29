@@ -39,4 +39,4 @@ solving problems in compressible fluid mechanics (sometimes called gas dynamics)
 contexts.
 
 
-<iframe src="misc_content/Day1_SpeedMan.html" height="500" width="500"></iframe>
+<iframe src="https://htmlpreview.github.io/?misc_content/Day1_SpeedMan.html" height="500" width="500"></iframe>
