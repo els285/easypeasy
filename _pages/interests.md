@@ -38,5 +38,5 @@ Julia-lang package which contains many aerodynamic and thermodynamic tools for
 solving problems in compressible fluid mechanics (sometimes called gas dynamics)
 contexts.
 
-
-<iframe src="https://htmlpreview.github.io/?misc_content/Day1_SpeedMan.html" height="500" width="500"></iframe>
+<!--  It appears that the HTML file is too large-->
+<!-- <iframe src="misc_content/Day1_SpeedMan.html" height="500" width="500"></iframe> -->
