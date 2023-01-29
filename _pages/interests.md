@@ -37,3 +37,6 @@ Harking back to my undergraduate days, I have developed [`AeroJulia`](https://gi
 Julia-lang package which contains many aerodynamic and thermodynamic tools for
 solving problems in compressible fluid mechanics (sometimes called gas dynamics)
 contexts.
+
+
+<iframe src="misc_content/Day1_SpeedMan.html" height="500" width="500"></iframe>
