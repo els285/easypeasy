@@ -8,8 +8,6 @@ main:
     url: /interests/
   - title: "Physics"
     url: /physics/
-  - title: "CV"
-    url: /cv/
   - title: "Contact"
     url: /contact/
 
