@@ -6,7 +6,17 @@ classes: wide
 ---
 
 
-Hi, I'm Ethan, a PhD student with the ATLAS Collaboration at CERN, Geneva.
+Hi, I'm Ethan, a PhD student with the ATLAS Collaboration at CERN, Geneva. With
+my PhD finishing in the Spring of 2023, I am actively seeking career
+opportunities.
+
+This website is built with the intention of introducing myself, my interests and
+my work. The [Physics](https://els285.github.io/ethansimpson/interests/) page highlights areas of research within my high-energy
+physics PhD; the [Interests](https://els285.github.io/ethansimpson/physics/) page showcases physics research, data science and
+software projects external to the PhD. If you are interested in reaching out,
+please get in contact using the details on the [Contact](https://els285.github.io/ethansimpson/contact/) page.
+
+
 
 <p float="left">
      <img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/169854163-2ced4257-b539-4946-a1cd-06eac7ce0d81.jpg" />
