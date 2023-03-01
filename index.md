@@ -11,8 +11,8 @@ my PhD finishing in the Spring of 2023, I am actively seeking career
 opportunities.
 
 This website is built with the intention of introducing myself, my interests and
-my work. The [Physics](https://els285.github.io/ethansimpson/interests/) page highlights areas of research within my high-energy
-physics PhD; the [Interests](https://els285.github.io/ethansimpson/physics/) page showcases physics research, data science and
+my work. The [Physics](https://els285.github.io/ethansimpson/physics/) page highlights areas of research within my high-energy
+physics PhD; the [Interests](https://els285.github.io/ethansimpson/interests/) page showcases physics research, data science and
 software projects external to the PhD. If you are interested in reaching out,
 please get in contact using the details on the [Contact](https://els285.github.io/ethansimpson/contact/) page.
 
