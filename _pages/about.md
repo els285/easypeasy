@@ -36,13 +36,13 @@ beer.
 ## Education
 
 * ### University of Glasgow / CERN, 
-PhD in High-Energy Particle Physics,
+PhD in High-Energy Particle Physics,  
 September 2019 - 2023
 
 * ### University of Glasgow, 
-MSc in Theoretical Physics, with Distinction,
+MSc in Theoretical Physics, with Distinction,  
 September 2018 - September 2019
 
 * ### University of Glasgow, 
-MEng in Mechanical Engineering with Aeronautics, 1st Class
+MEng in Mechanical Engineering with Aeronautics, 1st Class  
 September 2012 - May 2017
