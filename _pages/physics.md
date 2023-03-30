@@ -28,7 +28,7 @@ I am interested in properties of the top quark, particularly how it spins. We
 have studied top quark spin correlations and polarisations using the ATLAS Run-2
 dataset in several top production mechanisms. 
 
-<img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/228811278-db4631f1-71f2-4b6f-a05e-d7acd0b4d7e7.png" />
+<img alt="alt_text" width="1000px" src="https://user-images.githubusercontent.com/68130081/228811278-db4631f1-71f2-4b6f-a05e-d7acd0b4d7e7.png" />
 
 
 ## Quantum Information in Collider Physics
