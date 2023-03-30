@@ -24,10 +24,12 @@ the top quark is extremely interesting to study. It provides us with a test for
 the Standard Model of Particle Physics, and allows us to investigate
 avenues of New Physics (i.e. physics not in the Standard Model.)
 
-I am interested in properties of the top quark, particularly how it spins when
-combined with its antiparticle, and with scalar and vector bosons. We
-have studied top quark spin correlations and polarisation using the ATLAS Run-2
+I am interested in properties of the top quark, particularly how it spins. We
+have studied top quark spin correlations and polarisations using the ATLAS Run-2
 dataset in several top production mechanisms. 
+
+<img alt="alt_text" width="200px" src="https://github.com/els285/ethansimpson/blob/master/bayes_factor.png" />
+
 
 ## Quantum Information in Collider Physics
 I am interested in the intersection between collider physics and quantum
