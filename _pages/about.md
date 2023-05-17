@@ -46,3 +46,15 @@ September 2018 - September 2019
 * ### University of Glasgow, 
 MEng in Mechanical Engineering with Aeronautics, 1st Class  
 September 2012 - May 2017
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b> Hello </td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
