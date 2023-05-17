@@ -44,11 +44,11 @@ MSc in Theoretical Physics, with Distinction,
 September 2018 - September 2019
 
 * ### University of Glasgow, 
-MEng in Mechanical Engineering with Aeronautics, 1st Class  
+MEng in Mechanical Engineering with Aeronautics, 1st Class        <img alt="alt_text" width="50px" src="https://user-images.githubusercontent.com/68130081/199840994-a7f9f27f-d569-435d-a1f4-7e772c2579b5.jpg" />
 September 2012 - May 2017
 
 
-<table border="0">
+<!-- <table border="0">
  <tr>
     <td><b style="font-size:30px">Title Tttleksltksl s tkjhskjghsjkghkjs hskjhtskthskjthkj </b>  </td>
     <td><b style="font-size:30px">Title 2</b></td>
@@ -57,4 +57,4 @@ September 2012 - May 2017
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
  </tr>
-</table>
+</table> -->
