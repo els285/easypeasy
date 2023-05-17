@@ -11,8 +11,6 @@ defaults:
 title: About
 usemathjax: true
 permalink: /about/
-classes: wide
-
 ---
 
 I am 28 years old, living in Geneva, working at CERN. I'm originally from
@@ -46,7 +44,7 @@ MSc in Theoretical Physics, with Distinction,
 September 2018 - September 2019
 
 * ### University of Glasgow, 
-MEng in Mechanical Engineering with Aeronautics, 1st Class    <img alt="alt_text" width="100px" src="https://user-images.githubusercontent.com/68130081/199840994-a7f9f27f-d569-435d-a1f4-7e772c2579b5.jpg" />,
+MEng in Mechanical Engineering with Aeronautics, 1st Class,
 September 2012 - May 2017
 
 
