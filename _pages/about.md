@@ -50,7 +50,7 @@ September 2012 - May 2017
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b> Hello </td>
+    <td><b style="font-size:30px">Title Tttleksltksl s tkjhskjghsjkghkjs hskjhtskthskjthkj </b>  </td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
